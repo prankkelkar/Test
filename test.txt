@@ -1,0 +1,5 @@
+
+Hello world,
+
+This is a test file, aimed at testing git commands and stuff.
+
