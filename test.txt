@@ -6,21 +6,3 @@ Change1
 
 This is a test file, aimed at testing git commands and stuff.
 Added this line.............
-
-
-Added this line in branch: siddesh
-
-Added line 2 in branch : siddesh 
-
-Added this line in branch : test
-Added line 3 in branch : siddesh
-
-Added line 4 in branch : siddesh
-
-Added line 4 in branch : siddesh
-
-Added line 5 in branch : siddesh
-
-Added line 6 in branch : siddesh
-
-
